@@ -16,7 +16,8 @@
 ### 🛠️ Tech Stack  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/python-plain.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40"/>
